@@ -35,3 +35,12 @@
     initialiser HttpClient dans le constructor
 
     importer HttpClientModule dans app.module.ts
+
+12- CORS Policy
+    Aller dans Django puis faire des configuration
+    pip install django-cors-headers
+    suivre les étapes coté Django
+
+13- Autoriser notre application à communiquer avec l'API Django
+    Créer une instance de l'objet headers dans api.service.ts
+
