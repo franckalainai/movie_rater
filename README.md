@@ -46,4 +46,6 @@
 
 14- Communiquer entre main et movie-list
 
+15- Details des movies
+
 
