@@ -44,3 +44,6 @@
 13- Autoriser notre application à communiquer avec l'API Django
     Créer une instance de l'objet headers dans api.service.ts
 
+14- Communiquer entre main et movie-list
+
+
