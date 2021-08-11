@@ -26,5 +26,12 @@
       ngOnInit(): void {
         this.movies = this.apiService.getService()
       }
-      
-11- 
+
+11- Fetching Data from API
+    Créer notre BaseUrl dans api.service.ts
+    baseUrl = 'http://127.0.0.1:8000/api/movies/';
+
+    importer HttpClient
+    initialiser HttpClient dans le constructor
+
+    importer HttpClientModule dans app.module.ts
