@@ -12,4 +12,5 @@
 5- Enregistrer nos modules dans le module principale app.module.ts
 
 6- Routing
-  
+
+7- Créer les composant movie-list, movie-details et movie-form dans le repertoire main
