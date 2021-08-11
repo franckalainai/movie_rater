@@ -11,3 +11,5 @@
     ng generate component auth --module=auth
 5- Enregistrer nos modules dans le module principale app.module.ts
 
+6- Routing
+  
